@@ -1,0 +1,3 @@
+interface ICorazzato {
+    void attivaCorazza();
+}

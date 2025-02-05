@@ -1,0 +1,3 @@
+interface IEvolvibile {
+    void evolvi();
+}
